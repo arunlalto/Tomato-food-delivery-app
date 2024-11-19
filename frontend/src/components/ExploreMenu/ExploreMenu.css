@@ -39,7 +39,7 @@
     cursor: pointer;
 }
 .explore-menu-list-item .active{
-    border: 3px solid tomato;
+    border: 5px solid tomato;
     border-radius: 50%;
 }
 .explore-menu hr{
@@ -47,4 +47,11 @@
     height: 2px;
     background-color: #e2e2e2;
     border: none;
+}
+@media (max-width:1050px) 
+{
+    .explore-menu-text{
+        max-width: 100%;
+    }
+    
 }
