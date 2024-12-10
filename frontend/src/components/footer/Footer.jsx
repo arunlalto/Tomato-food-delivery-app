@@ -39,7 +39,7 @@ const Footer = () => {
       </div>
       <hr />
       <p className="footer-copyright">
-        Copyright 2025 © Tomato.com - All Right Reserved.
+       Developed by Arunlal to Copyright 2025 © Arunlal to - All Right Reserved.
       </p>
     </div>
   );
