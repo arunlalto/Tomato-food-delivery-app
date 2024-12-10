@@ -39,7 +39,7 @@ const Footer = () => {
       </div>
       <hr />
       <p className="footer-copyright">
-       Developed by Arunlal to Copyright 2025 © Arunlal to - All Right Reserved.
+       Developed by ARUNLAL TO, Copyright 2025 © ARUNLAL TO - All Right Reserved.
       </p>
     </div>
   );
